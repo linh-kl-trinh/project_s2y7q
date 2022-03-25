@@ -1,0 +1,14 @@
+{"lists": [
+    {
+        "name": "Waiting List",
+        "watchlist": []
+    },
+    {
+        "name": "Finished List",
+        "watchlist": []
+    },
+    {
+        "name": "Dropped List",
+        "watchlist": []
+    }
+]}
